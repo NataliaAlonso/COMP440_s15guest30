@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [s15guest30]
+    WITH PASSWORD = N'xqezx{bti>rnojdfyKuJmdb+msFT7_&#$!~<etc1y`k^{%es', SID = 0x0A84C3C24345264C95EE777D3AE0B32D, DEFAULT_DATABASE = [s15guest30], DEFAULT_LANGUAGE = [us_english], CHECK_EXPIRATION = ON;
+
